@@ -5,4 +5,7 @@ class ApplicationController < ActionController::Base
   def hello
   	render html:"hello, world!"
   end
+
+  def test_function
+  end
 end
