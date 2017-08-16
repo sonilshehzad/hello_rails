@@ -8,4 +8,7 @@ class ApplicationController < ActionController::Base
 
   def test_function
   end
+
+  def other_function
+  end
 end
